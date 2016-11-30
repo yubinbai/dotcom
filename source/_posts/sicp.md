@@ -16,8 +16,9 @@ This book allows me to gain a huge leap into that.
 
 ### What I learned
 - Functional method of computation, stateless
-- Substitution model for evalutaing expressions
+- Substitution model for evalutaing expressions, relationship between computer time and assignment
 - Environment model for interpreter working mechanism
+- Stream method to model concurrency
 
 ### Follow-ups
 - Programming with macros (metaprogramming)

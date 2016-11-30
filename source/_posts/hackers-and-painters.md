@@ -7,4 +7,7 @@ categories: book-review
 
 {% img /images/hackers-and-painters.jpg %}
 
-Hackers and Painters
+Overall
+---
+As the preface of the book says, 'This book is an attempt to explain to the world at large what goes on in the world of computers.' `Hackers and Painters` really tries to answer a lot of non-technical questions in a technical way.
+
