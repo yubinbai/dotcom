@@ -9,6 +9,7 @@ What this blog is for
 ---
 - Recording technical books that I've read, writing book reviews
 - Challanging my tech growth path and ideas
+- Keep record of self-improvement follow-ups
 
 Previous Blog
 ---
