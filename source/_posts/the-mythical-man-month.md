@@ -4,7 +4,7 @@ date: 2015-10-31 16:18:35
 tags: book-review
 ---
 
-{% img /images/the-mythical-man-month.jpg %}
+{% img /images/the-mythical-man-month.jpeg %}
 
 'The mythical man month' is the most known classic in software engineering. Raised a lot of important notions, including the famous 'no silver bullet' assert.
 
