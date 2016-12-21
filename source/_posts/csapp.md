@@ -17,6 +17,7 @@ It took me a month to finish studying it, mostly b/c it's level of abstraction i
 Caching and the memory mountain
 ===
 'Because of the cache hierarchy, the effective rate that a program can access memory locations is not characterized by a single number. Rather, it is a wildly varying function of program locality (what we have dubbed the memory mountain) that can vary by orders of magnitude.' - Chapter 6. 
+
 The efficiency of memory access is graphed as a mountain, with 'ridges' of temporal locality, and 'slopes' of spacial locality. 
 
 - Temporal locality: the same data objects are likely to be reused multiple times. Once a data object has been copied into the cache on the first miss, we can expect a number of subsequent hits on that object. 
