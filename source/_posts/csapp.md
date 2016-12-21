@@ -8,7 +8,7 @@ tags: book-review
 
 Overall
 ===
-'Computer Systems A Programmer’s Perspective' (CSAPP) is a very practical book about computer architecture. Most books on computer architecture focus on particular areas, such as: compilers, processor architecture, or programming language principles.
+'Computer Systems A Programmer’s Perspective' (CSAPP) is a very practical book about computer architecture. Most books on computer architecture focus on particular areas, such as: compilers, processor architecture, and programming language principles.
 
 This book strives to envelope a good part of everything, to give readers a big picture. The authors tailor to the needs of most developers who want to write performing and reliable code. And they achieved the goal precisely.
 
