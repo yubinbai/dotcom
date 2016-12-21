@@ -1,6 +1,6 @@
 ---
 title: 'The Mythical Man-month - Fredrick P. Brooks'
-date: 2016-10-31 16:18:35
+date: 2015-10-31 16:18:35
 tags: book-review
 ---
 
