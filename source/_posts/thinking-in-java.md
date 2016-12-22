@@ -1,7 +1,7 @@
 ---
 title: 'Thinking in Java - Bruce Eckel'
 date: 2015-09-22 16:18:35
-tags: book-review, career
+tags: book-review
 ---
 
 {% img /images/thinking-in-java.jpg %}
