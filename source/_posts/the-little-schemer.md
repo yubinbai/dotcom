@@ -4,7 +4,7 @@ date: 2016-08-15 16:18:35
 tags: book-review
 ---
 
-{% img /images/the-little-schemer.png %}
+{% img /images/the-little-schemer.jpg %}
 
 ### Motivation
 Aiming at changing my perspectives about programming, I decided to start learning Lisp, the very first functional language. 'The Little Schemer', all references I've found highly suggested this as the starter book. And this is great for learning the functional way of thinking about computing.

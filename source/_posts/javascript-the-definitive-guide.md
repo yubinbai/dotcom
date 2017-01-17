@@ -4,7 +4,7 @@ date: 2016-02-06 16:18:35
 tags: book-review
 ---
 
-{% img /images/javascript-the-definitive-guide.png %}
+{% img /images/javascript-the-definitive-guide.jpg %}
 
 Overall
 ===

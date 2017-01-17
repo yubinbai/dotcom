@@ -4,7 +4,7 @@ date: 2016-12-18 16:18:35
 tags: book-review
 ---
 
-{% img /images/anki-essentials.png %}
+{% img /images/anki-essentials.jpg %}
 
 Original: [Anki Essentials](https://alexvermeer.com/anki-essentials/)
 

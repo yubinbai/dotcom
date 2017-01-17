@@ -4,7 +4,7 @@ date: 2016-07-17 16:18:35
 tags: book-review
 ---
 
-{% img /images/debugging-the-9-rules.png %}
+{% img /images/debugging-the-9-rules.jpg %}
 
 Overall
 ===
