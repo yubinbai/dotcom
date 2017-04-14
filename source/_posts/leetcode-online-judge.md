@@ -1,5 +1,5 @@
 ---
-title: 'Finished new questions on Leetcode.com, don't want to buy their book' 
+title: 'Finished new questions on Leetcode.com, do not want to buy their book' 
 date: 2014-12-28 16:18:35
 tags: 
 ---
