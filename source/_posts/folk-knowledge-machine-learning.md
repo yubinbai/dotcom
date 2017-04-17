@@ -4,7 +4,7 @@ date: 2014-08-31 16:18:35
 tags: book-review
 ---
 
-{% img /images/folk-knowledge-machine-learning.md %}
+{% img /images/folk-knowledge-machine-learning.jpg %}
 
 Overall
 ===
