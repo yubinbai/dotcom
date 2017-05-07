@@ -1,5 +1,5 @@
 ---
-title: 'Do Less and Focus Hard: If You're Busy, You're Doing Something Wrong'
+title: "Do Less and Focus Hard: If You're Busy, You're Doing Something Wrong"
 date: 2013-03-05 16:18:35
 tags: career
 ---
