@@ -1,5 +1,5 @@
 ---
-title: 'Difficult Doesn\'t Mean Bad' 
+title: 'Difficult Does NOT Mean Bad' 
 date: 2013-04-05 16:18:35
 tags: quote
 ---
