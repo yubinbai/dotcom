@@ -12,11 +12,12 @@ Overall
 
 And these patterns are described to be easily portable and adaptive to various scenarios as fit. 
 
-Object-based code organization
+Class Patterns vs. Object Patterns
 ===
 One thing I noticed is that the authors are fully aware of the contrast between object-based and class-based code programming models. This opened my eyes a lot, as I always thought object-based OOP is relatively new, at lease as new as the new developments of the Javascript language. However it turns out to be a super old idea. Maybe as old as the time that C++ is invented. 
 
 This further explained that at lease a huge group of hackers intentionally chose the class-based model. 
 
-Creation patterns vs. Interface patterns
+Creational, Structural, and Behavioral Patterns
 ===
+Patterns are classfield in the three general categories. Creational patterns are super important in object patterns, as composition is dominating inheritance.
