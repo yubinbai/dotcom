@@ -20,4 +20,10 @@ This further explained that at lease a huge group of hackers intentionally chose
 
 Creational, Structural, and Behavioral Patterns
 ===
-Patterns are classfield in the three general categories. Creational patterns are super important in object patterns, as composition is dominating inheritance.
+Patterns are classfield in the three general categories. 
+
+Creational patterns are super important in object patterns, as composition is dominating inheritance.
+
+Structural patterns are useful as codebase scales to involve a huge number of correlating structures, and we need consistent principles to navigate around. 
+
+Behavioral patterns are designed for adjusting and implementing functonalities attached to structural components.
