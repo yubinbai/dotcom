@@ -1,5 +1,5 @@
 ---
-title: "Kernighan/'s law"
+title: "Kernighan's law"
 date: 2013-01-13 20:15:35
 tags: quote
 ---
